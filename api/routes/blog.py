@@ -16,7 +16,7 @@ router = APIRouter(
 
 @router.post(
     "",
-    response_description="Create a blog",
+    response_description="Create a blog post",
     response_model=BlogResponse,
     status_code=status.HTTP_201_CREATED,
 )
