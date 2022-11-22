@@ -6,6 +6,7 @@
 3. [MongoDB - Motor](https://motor.readthedocs.io/en/stable/)
 4. [FastAPI-MAIL](https://sabuhish.github.io/fastapi-mail/)
 5. [My curated Resources](https://brazen-gouda-57f.notion.site/FastAPI-and-MongoDB-5773093203f34cb192c42ec80066868b)
+6. [Configure CI/CD Docker](https://docs.docker.com/language/python/configure-ci-cd/)
 
 In this tutorial, learnt all about building and deploying APIs with [FastAPI](https://fastapi.tiangolo.com/) and performing CI/CD using github actions.
 
